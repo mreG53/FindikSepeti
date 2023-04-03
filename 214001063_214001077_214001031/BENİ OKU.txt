@@ -1,0 +1,8 @@
+KILAVUZ KLASÖRÜ İÇİNDEKİ 'kilavuz.html' DOSYASINDAN KILAVUZA ULAŞABİLİRSİNİZ.
+
+
+
+Programı açmak için herhangi bir şeyin kurulmasına gerek yoktur.
+website klasörü içindeki 'website.sln'  projesinden başlatın.
+Ardından 'index.aspx' sayfasından projeyi çalıştırarak kullanabilirsiniz.
+Hesaplar kılavuz içinde soldaki menüden erişilebilir.
