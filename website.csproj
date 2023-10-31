@@ -163,6 +163,7 @@
     <Compile Include="companies\company_login.aspx.designer.cs">
       <DependentUpon>company_login.aspx</DependentUpon>
     </Compile>
+    <Compile Include="css\FileName.cs" />
     <Compile Include="dbpath.cs" />
     <Compile Include="deletesepet.aspx.cs">
       <DependentUpon>deletesepet.aspx</DependentUpon>
